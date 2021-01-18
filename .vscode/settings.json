@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Python39\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "${workspaceFolder}/bin/pylint",
+    "extensions.ignoreRecommendations": true
+}

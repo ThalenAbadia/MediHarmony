@@ -1,0 +1,29 @@
+Arnav: Since our team had all experienced the inconveniencies that come with having questions and concerns about the Medical field we decided
+to make a website, so that people like us could use our product as a one-stop shop for all their medical related queries. 
+
+Thalen: Our product is MediHarmony, the online medical tool for users to get information and help on your medical needs.
+First, we have a user friendly home page. It displays our company logo, a navigation bar, and a paralax styled webpage, which shows MediHarmonies tools
+with a corresponding image, and buttons that link to those pages for easy access. At the end we have a feedback and question form for our users to return which lets them enter information about them, and what they are contacting us about.
+We can see their submissions through a typeform panel, and see all the information they entered.
+
+Aditya: While our next feature may seem simple it involved a lot of code and is quite essential in times of haste. This map feature allows you to find the closest hospitals or pharmacies, first allow
+the website to track you r location so that it can help locate pharmacies and hospitals closest to you 
+m. In order to make this map we used Google's Geolocation API and Javascript to help locate them to you.
+
+Karan: Last but not least we have our page with our Interactive Medical assistant the MediBot, with many features for users, such as allowing you to see what 
+the symptoms they are experiencing could mean to being able to come to our website and scheduling appointments, there is a lot to do with our MediBot.code
+
+Arnav: At the end of the day we hope you  can see our effort in making our world a better place, and how we are constantly innovating our technologies to 
+make life easier for our users. We hope you  have a harmonic day, thank you .
+
+
+
+
+
+
+
+
+ Last but not least we have a page with our Interactive Medical assistant the MediBot. This has  many features for users, such as allowing you to see what 
+the symptoms they are experiencing could mean to being able to come to our website and scheduling appointments. There is a lot to do with our MediBot. You could also 
+look into the different types of diseases and their symptoms, and their treatments. This bot is there so that an user does not have to go to multiple sites to get information 
+they want about diseases, 
