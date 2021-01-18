@@ -26,4 +26,4 @@ make life easier for our users. We hope you  have a harmonic day, thank you .
  Last but not least we have a page with our Interactive Medical assistant the MediBot. This has  many features for users, such as allowing you to see what 
 the symptoms they are experiencing could mean to being able to come to our website and scheduling appointments. There is a lot to do with our MediBot. You could also 
 look into the different types of diseases and their symptoms, and their treatments. This bot is there so that an user does not have to go to multiple sites to get information 
-they want about diseases, 
+they want about different diseases, but instead, get it all here. let me show you a demonstartion. 
